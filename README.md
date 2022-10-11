@@ -1,6 +1,7 @@
 # ESVersioningWeakScheama
-Update event in Event Source Versioning
-This Sample Using Mapping in Weak Schema Approach 
+Update event in Event Source Versioning.
+
+This Sample Using Mapping in Weak Schema Approach. 
 
 # Versioning-Event-Sourced-System
 My quick notes about the "Versioning in an Event Sourced System" book by Greg Young (from his free, online version of 
