@@ -1,0 +1,12 @@
+C:\Users\Firoozi.m\source\repos\PFS.Core\PFS.Core\bin\Debug\net6.0\PFS.Core.deps.json
+C:\Users\Firoozi.m\source\repos\PFS.Core\PFS.Core\bin\Debug\net6.0\PFS.Core.dll
+C:\Users\Firoozi.m\source\repos\PFS.Core\PFS.Core\bin\Debug\net6.0\PFS.Core.pdb
+C:\Users\Firoozi.m\source\repos\PFS.Core\PFS.Core\obj\Debug\net6.0\PFS.Core.csproj.AssemblyReference.cache
+C:\Users\Firoozi.m\source\repos\PFS.Core\PFS.Core\obj\Debug\net6.0\PFS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Firoozi.m\source\repos\PFS.Core\PFS.Core\obj\Debug\net6.0\PFS.Core.AssemblyInfoInputs.cache
+C:\Users\Firoozi.m\source\repos\PFS.Core\PFS.Core\obj\Debug\net6.0\PFS.Core.AssemblyInfo.cs
+C:\Users\Firoozi.m\source\repos\PFS.Core\PFS.Core\obj\Debug\net6.0\PFS.Core.csproj.CoreCompileInputs.cache
+C:\Users\Firoozi.m\source\repos\PFS.Core\PFS.Core\obj\Debug\net6.0\PFS.Core.dll
+C:\Users\Firoozi.m\source\repos\PFS.Core\PFS.Core\obj\Debug\net6.0\refint\PFS.Core.dll
+C:\Users\Firoozi.m\source\repos\PFS.Core\PFS.Core\obj\Debug\net6.0\PFS.Core.pdb
+C:\Users\Firoozi.m\source\repos\PFS.Core\PFS.Core\obj\Debug\net6.0\ref\PFS.Core.dll
