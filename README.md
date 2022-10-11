@@ -1,4 +1,4 @@
-# ESVersioningWeakScheama
+# ESVersioningWeakSchema
 Update event in Event Source Versioning.
 
 This Sample Using Mapping in Weak Schema Approach. 
